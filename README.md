@@ -3,6 +3,9 @@
 Welcome to my **Spam SMS Detection** project! In this project, I build a machine learning model to classify SMS messages as either **spam** or **ham** (not spam). This project includes a fully functional **web app** built with Streamlit, allowing users to enter a message and get instant predictions.
 
 🔗 **Live Web App:** [Spam SMS Detection Web App](https://spam-sms-detection-jlunztznqpypc4jb4gbnar.streamlit.app/)  
+📘 **Kaggle Notebook:** [Spam SMS Detection on Kaggle](https://www.kaggle.com/code/bustergone/spam-sms-detection)  
+
+---
 
 ---
 
@@ -26,7 +29,8 @@ This project uses the **SMS Spam Collection dataset** to develop a spam detectio
 
 The final model is deployed via **Streamlit**, allowing users to interactively test messages and see predictions in real-time.
 
-🔗 **Try it here:** [Spam SMS Detection Web App](https://spam-sms-detection-jlunztznqpypc4jb4gbnar.streamlit.app/)  
+🔗 **Try it here:** [Spam SMS Detection Web App](https://spam-sms-detection-jlunztznqpypc4jb4gbnar.streamlit.app/)
+📘 **Kaggle Notebook:** [Spam SMS Detection on Kaggle](https://www.kaggle.com/code/bustergone/spam-sms-detection)
 
 ---
 
