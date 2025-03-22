@@ -68,7 +68,7 @@ To run this project locally or on a platform like Kaggle, you'll need the follow
 - joblib
 - eli5
 
-You can install all required packages using the following command:
+You can install all required packages using the provided `requirements.txt` file. To do so, run:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn joblib eli5
+pip install -r requirements.txt
