@@ -63,7 +63,7 @@ The dataset used in this project is the **[SMS Spam Collection dataset](https://
 
 ## ✅ Results
 
-- **Accuracy:** ~97% on the test set.
+- **Accuracy:** ~98% on the test set.
 - **Interpretability:** Extracted **top features** (words) for spam and ham.
 - **Error Analysis:** Misclassified messages were reviewed for insights.
 
